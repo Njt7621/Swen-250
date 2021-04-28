@@ -1,0 +1,34 @@
+
+SWEN-250 Activity Reflection
+
+Name:Nikkia Theodule
+
+================================================================
+Start Part 1
+Estimated Time	HH 25MM
+Plan:Follow instrucions.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH 20MM
+Observations:The make command tells you any errors or warnings, 
+the gdb (name.c) command puts you in debug mode
+h command to see the help system
+r to run the code
+q to quit the debugger
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Start Part 2
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

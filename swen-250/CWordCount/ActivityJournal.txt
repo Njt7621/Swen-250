@@ -1,0 +1,35 @@
+
+SWEN-250 Activity Reflection
+
+Name:Nikkia Theodule
+
+================================================================
+Start Part 1
+Estimated Time 1HH MM
+Plan: Program reads file(s)than prints:
+  -number of lines
+  -number of words
+  -number of characters
+Testing approach:
+  -make one function that uses a for loop to counts each time it
+ gets a line, word, and character.
+  -probably store these things in an array and add 1 for the Nul
+Order of implementation:
+  -not sure yet. Probably starting by equaling everything to zero.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1HH 30MM
+Observations: Problems encountered when compile:
+  -used colon instead of semi colon
+  -forgot nchar in front of != EOF
+Obstacles to over come:
+  -got 0 for line and word but 375 for character
+  -changed for loop into while statement
+  -add appropriate amount of spaces to match statement
+Lessons learned:
+  -try changing the code
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

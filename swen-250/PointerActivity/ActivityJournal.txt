@@ -1,0 +1,72 @@
+SWEN-250 Activity Reflection
+
+Name:Nikkia Theodule
+
+================================================================
+Implement code to pass all unit tests
+
+Estimated Time	1HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+1. Complete read_data.h following the requirments:
+ * The calling sequence has three arguments:
+ *      - a pointer to a char variable.
+ *      - a pointer to an int variable.
+ *      - a pointer to a double precision variable.
+ *
+ * The routine
+ *      1. Reads the three fields into local variables (using getchar()),
+ *      2. Converts the two numeric fields from ASCII strings to numbers:
+ *              a) Use atoi for the integer.
+ *              b) Use atof for the double.
+ *      3. Uses the parameter pointers to store the three values in variables
+ *         declared in the caller, and
+ *      4. Returns.
+
+
+2. Complete read_data.c following the requirments:
+* Reads the three fields from lines such as W$1349$1.414$ into
+* local variables using getchar().
+* Converts the two numeric fields to numbers using atoi for the
+* integer fields and atof for the double.
+* Using a correctly defined set of parameters (use pointers) pass
+* those values back to the program that called this function.
+
+
+3. Complete main.c following the requirments:
+ *      1. Declares local variables for the character, integer, and
+ *         double precision values returned by read_data.
+ *      2. Calls read_data with pointers to the variables so that
+ *         the values read can be returned.
+ *      3. On return, prints the character, integer, and double
+ *         precision number using the following format string for
+ *         printf:
+ *              "Character %c Integer %d Floating point %.4f\n"
+ *         Note: you must also, of course, provide the values to
+ *         be printed.
+ *      4. Return a 0 to the operating system.
+
+
+4. Ask for help, use notes and the internet.
+ 
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+
+================================================================
+Test correct operation from the command line
+
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
